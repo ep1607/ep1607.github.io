@@ -6,7 +6,7 @@
 name: Eva Pocivavsek
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Web Developer from Ljubljana
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://nosycrow.com/images/image.php?image=434.jpg&width=140
@@ -18,15 +18,15 @@ avatar: http://nosycrow.com/images/image.php?image=434.jpg&width=140
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: eva.pocivavsek.janhar@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/ep1607
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
